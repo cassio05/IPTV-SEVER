@@ -1,4 +1,4 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8tgCEyar9lU/maxresdefault.jpg",Vídeo YouTube
-plugin://plugin.video.youtube/play/?video_id=8tgCEyar9lU
+#EXTINF:-1 tvg-id="canal001" tvg-logo="https://i.ytimg.com/vi/8tgCEyar9lU/maxresdefault.jpg" group-title="YouTube",Canal YouTube
+https://youtu.be/8tgCEyar9lU
+
