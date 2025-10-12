@@ -1,12 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1,Filmes Online Ao Vivo
-https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1,TVI Ficção Ao Vivo
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=147837080
-#EXTINF:-1, Darken O Universo Paralelo
+# VOD
+#EXTINF:-1 tvg-name="Darken O Universo Paralelo" group-title="Filmes":Darken O Universo Paralelo
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Darken%20O%20Universo%20Paralelo.mp4
-#EXTINF:-1, Cao de Briga
-https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Cao%20de%20Briga%202005%20Dublado.m3u8
+#EXTINF:-1 tvg-name="Cao de Briga" group-title="Filmes":Cao de Briga
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Cao%20de%20Briga%202005%20Dublado.mkv
 
-
+# Live
+#EXTINF:-1 tvg-name="Filmes Online Ao Vivo" group-title="Canais Ao Vivo":Filmes Online Ao Vivo
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name="TVI Ficção Ao Vivo" group-title="Canais Ao Vivo":TVI Ficção Ao Vivo
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=147837080
