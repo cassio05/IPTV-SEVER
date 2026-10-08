@@ -81,6 +81,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/A%20Fam%C3%ADlia%20Buscap%C3%A
 #EXTINF:-1, A Fortaleza
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/A%20Fortaleza%20Filme%20de%20A%C3%A7%C3%A3o%20e%20Fic%C3%A7%C3%A3o%20Cient%C3%ADfica%20Completo(720P_HD).mp4
 
+#EXTINF:-1, A Força em Alerta
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/A-Forca-em-Alerta-(1992).mkv
+
 #EXTINF:-1, A grota da mota
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/A%20Garota%20da%20Mota.mp4
 
@@ -156,6 +159,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Anjos-da-Noite-3-A-Rebeliao.mk
 #EXTINF:-1, Armadura de Deus
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/armadura.de.deus.mkv
 
+#EXTINF:-1, Armadura de Deus 2 - Operacão Condor
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Armadura-de-Deus-2-Operacao-Condor-(1991).mkv
+
 #EXTINF:-1, Arquivo X - O Filme
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Arquivo.X.O.Filme.1998.mkv
 
@@ -182,6 +188,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Assassino%20a%20Preco%20Fixo.m
 
 #EXTINF:-1, Assassino a Preço Fixo 2
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Assassino%20a%20Preco%20Fixo%202.mkv
+
+#EXTINF:-1, Assassinos
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Assassinos[1995].mp4
 
 #EXTINF:-1, Atracao Mortal
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Atra%C3%A7%C3%A3o%20Mortal%20-%20Filme%20Completo%20Dublado%20-%20Filme%20de%20Aventura%20%20Alta%20Tens%C3%A3o.mp4
@@ -255,6 +264,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Carga.Explosiva.2.2005.1080p.B
 #EXTINF:-1, Carga Explosiva 3
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Carga.Explosiva.3.mp4
 
+#EXTINF:-1, Carga Explosiva 4 o Legado
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Carga.Explosiva.O.Legado.2015.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mp4
+
 #EXTINF:-1, Cidade Perdida
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Cidade.Perdida.2022.mkv
 
@@ -266,6 +278,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/007%20-%20Viva%20e%20deixe%20m
 
 #EXTINF:-1, Comando Imbativel
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Comando.Imbatível.1990.mp4
+
+#EXTINF:-1, Comando Para Matar
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Comando-Para-Matar-(1985).mkv
 
 #EXTINF:-1, Convergente
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Convergente.2016.mkv
@@ -308,6 +323,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Demolidor%20-%20O%20Homem%20Se
 
 #EXTINF:-1, Deuses do Egito
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Deuses%20do%20Egito%202016%20Dublado%20720p.mp4
+
+#EXTINF:-1, Dificil de Matar
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Dificil-de-Matar.mp4
 
 #EXTINF:-1, Divergente
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Divergente.mkv
@@ -377,6 +395,12 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/fugindo%20do%20passado.mp4
 
 #EXTINF:-1, Fugindo para Viver 1991
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Fugindo%20para%20Viver%201991.mp4
+
+#EXTINF:-1, Furia Mortal
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Furia-Mortal.mkv
+
+#EXTINF:-1, Gato de Botas 2  O Ultimo Pedido
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Gato-de-Botas-2-O-Ultimo-Pedido.mkv
 
 #EXTINF:-1, Guardioes da Galaxia
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Guardi%C3%B5es+da+Gal%C3%A1xia+(2014)[FilmesMp4.com].mp4
@@ -456,8 +480,14 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Indiana.Jones.4.E.O.Reino.Da.C
 #EXTINF:-1, indiana jones e o templo da perdicao
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Indiana.Jones.e.o.Templo.da.Perdição.1984.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mp4
 
+#EXTINF:-1, indiana jones e os cacadores da arca perdida
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Indiana.Jones.1.E.Os.Caçadores.Da.Arca.Perdida.1981.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
+
 #EXTINF:-1, Jesus - A Historia do Nascimento
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Jesus%20-%20A%20Hist%C3%B3ria%20do%20Nascimento%20720P.mkv
+
+#EXTINF:-1, Joe e as Baratas
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Joe-e-as-Baratas.mkv
 
 #EXTINF:-1, Jogos vorazes
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Jogos-vorazes.mkv
@@ -482,6 +512,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Jumanji.mkv
 
 #EXTINF:-1, Keruak - o exterminador de Aco
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Keruak,%20o%20exterminador%20de%20A%C3%A7o%20-%20FILME%20COMPLETO%20DUBLAD.mp4
+
+#EXTINF:-1, Kickboxer - O Desafio do Dragao
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Kickboxer-O-Desafio-do-Dragao-1989.mp4
 
 #EXTINF:-1, Lanterna Verde
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/laterna.verde.mkv
@@ -531,6 +564,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/LUTADOR.DE.RUA.FILME.mp4
 #EXTINF:-1, Lutar ou Morrer - Jet Li - Dublado
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Lutar%20ou%20Morrer%20-%20Jet%20Li%20-%20Dublado.mp4
 
+#EXTINF:-1, Mad Max
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Mad%20Max%2011979.mkv
+
 #EXTINF:-1, Mad Max - Alem da Cupula do Trovao
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Mad-Max-3.mkv
 
@@ -543,8 +579,14 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Mad%20Max%20-%20Estrada%20da%2
 #EXTINF:-1, maquina mortifera
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Maquina-Mortifera-1-(1987).mkv
 
+#EXTINF:-1, maquina mortifera 3
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/maquina.mortifera.3.mkv
+
 #EXTINF:-1, maquina mortifera 4
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/maquina.mortifera.4.mkv
+
+#EXTINF:-1, Massacre no Bairro Japones
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Massacre.no.Bairro.Japones-1981.mkv
 
 #EXTINF:-1, Material Girls
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/%20Material%20Girls%20(2006)%20Dublado%20720p.mkv
@@ -654,6 +696,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O.Corvo.2024.mkv
 #EXTINF:-1, O Corvo 1994
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O%20Corvo%201994.mkv
 
+#EXTINF:-1, O decimo terceiro guerreiro
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/o%20decimo%20terceiro%20guerreiro.mkv
+
 #EXTINF:-1, O Destruidor (1992)
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O.Destruidor.(1992).mkv
 
@@ -681,6 +726,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O.Filho.de.Deus.2014.BDRip.Xvi
 #EXTINF:-1, O Guarda Costas em Ação
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O%20Guarda%20Costas%20em%20A%C3%A7%C3%A3o.mp4
 
+#EXTINF:-1, O Guarda-Costas
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O-Guarda-Costas-(1992).mkv
+
 #EXTINF:-1, O GUARDIAO
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O.GUARDIAO.mp4
 
@@ -695,6 +743,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O.Guardiao.Em.Busca.da.Lanca.S
 
 #EXTINF:-1, O GUARDIAO: O RETORNO NAS MINAS DO REI SALOMAO
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O-Guardiao2.mkv
+
+#EXTINF:-1, O HEROI DRAGAO
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O%20HER%C3%93I%20DRAG%C3%83O.mp4
 
 #EXTINF:-1, O Homem de Aco
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O.Homem.De.A%C3%A7o.mp4
@@ -843,6 +894,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Crepusculo%20Lua%20Nova%202009
 #EXTINF:-1, Shazam
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Shazam.2019.mkv
 
+#EXTINF:-1, Shazam Furia dos Deuses
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Shazam-Furia-dos-Deuses-2023.mkv
+
 #EXTINF:-1, Sherlock Holmes 2 - O Jogo de Sombras
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Sherlock%20Holmes%202%20-%20O%20Jogo%20de%20Sombras%20.mkv
 
@@ -890,6 +944,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Superman.Red.Son.2020.720p.Blu
 
 #EXTINF:-1, Taxi 4
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Taxi%204%20(2007)%20%C2%B7%20Dublado%20Portugu%C3%AA[1].mp4
+
+#EXTINF:-1, Taxi – Velocidade nas Ruas
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/T%C3%A1xi%20%E2%80%93%20Velocidade%20nas%20Ruas.mp4
 
 #EXTINF:-1, Te Pego La Fora
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Te%20Pego%20L%C3%A1%20Fora%201987%20Dublado%201080p.mkv
@@ -948,6 +1005,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Taxi%20(2004).mkv
 #EXTINF:-1, Táxi 2 - Mais Velocidade nas Ruas
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Taxi.2.2000.720p.BluRay.x264.DUAL-BLUDV.mkv
 
+#EXTINF:-1, Ultimos Sobreviventes 2021
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Ultimos.Sobreviventes.2021.mkv
+
 #EXTINF:-1, Um Romance Proibido
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Um%20Romance%20Proibido.mp4
 
@@ -956,6 +1016,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Um.Tira.da.Pesada.mkv
 
 #EXTINF:-1, Um Tira da Pesada 2
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Um.Tira.da.Pesada.2.mkv
+
+#EXTINF:-1, Um Tira da Pesada 3
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Um.Tira.da.Pesada.3.mkv
 
 #EXTINF:-1, um tira de outro mundo
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/um%20tira%20de%20outro%20mundo.mp4
@@ -975,6 +1038,9 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Velozes-e-furiosos-3.mp4
 #EXTINF:-1, velozes e furiosos 4
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Velozes-e-furiosos-4.mp4
 
+#EXTINF:-1, velozes e furiosos 5
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Velozes-e-furiosos-5.mp4
+
 #EXTINF:-1, velozes e furiosos 6
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Velozes-e-furiosos-6.mp4
 
@@ -992,6 +1058,12 @@ https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Vingadores:%20Guerra%20Infinit
 
 #EXTINF:-1, Vingadores: Ultimato
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Vingadores.Ultimato.mkv
+
+#EXTINF:-1, Vinganca
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Vingança.1990.mp4
+
+#EXTINF:-1, Viuva Negra 2021
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Viuva-Negra-2021.mkv
 
 #EXTINF:-1, Vovo Zona
 https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Vovo.Zona-Dublado.mkv
