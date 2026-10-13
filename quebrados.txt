@@ -3,3 +3,63 @@
 # Gerado automaticamente pelo Verificador M3U
 # ==================================================
 
+#EXTINF:-1, A Arma Secreta da Mafia
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/A-Arma-Secreta-da-Mafia-2001.mkv
+
+#EXTINF:-1, A Mae
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/A-Mae-2023.mkv
+
+#EXTINF:-1, A mae do ano
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/A-Mae-Do-Ano-2023.mkv
+
+#EXTINF:-1, Arrebentando em Nova York
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Arrebentando.em.Nova.York.(1995).mkv
+
+#EXTINF:-1, Assassinos
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Assassinos[1995].mp4
+
+#EXTINF:-1, Atracao Mortal
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Atra%C3%A7%C3%A3o%20Mortal%20-%20Filme%20Completo%20Dublado%20-%20Filme%20de%20Aventura%20%20Alta%20Tens%C3%A3o.mp4
+
+#EXTINF:-1, Batman - Begins
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Batman-Begin(2005).mkv
+
+#EXTINF:-1, Cidade Perdida
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Cidade.Perdida.2022.mkv
+
+#EXTINF:-1, duro de espiar
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Duro.de.Espiar.1996.mkv
+
+#EXTINF:-1, Esporte Sangrento
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Esporte-Sangrento.mkv
+
+#EXTINF:-1, Jack Hunter e o Tesouro Perdido
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Jack.Hunter.e.o.Tesouro.Perdido.mp4
+
+#EXTINF:-1, Máquina Mortífera 2
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Maquina-Mortifera-2.mkv
+
+#EXTINF:-1, O Guarda-Costas
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O-Guarda-Costas-(1992).mkv
+
+#EXTINF:-1, O GUARDIAO 3 A MALDICAO DO CALICE DE JUDAS
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O-Guardiao3.mkv
+
+#EXTINF:-1, O GUARDIAO: O RETORNO NAS MINAS DO REI SALOMAO
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O-Guardiao2.mkv
+
+#EXTINF:-1, O Juiz
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/O.Juiz.(1995).mkv
+
+#EXTINF:-1, Projeto X - Uma Festa fora de controle
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/ProjetoX.mp4
+
+#EXTINF:-1, Shazam
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Shazam.2019.mkv
+
+#EXTINF:-1, Um Tira da Pesada
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Um.Tira.da.Pesada.mkv
+
+#EXTINF:-1, velozes e furiosos 7
+https://wispy-star-0e9c.cassiobc48.workers.dev/0:/Velozes-e-furiosos-7.mp4
+
